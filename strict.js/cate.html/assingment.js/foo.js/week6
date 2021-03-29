@@ -1,0 +1,22 @@
+var x = (function student (){  
+    name = "anita_b"
+    age = 21,
+    school = "Akirachix";
+    console.log(name);
+    console.log(age);
+    console.log(school);
+})
+(x);
+
+function jina (a){
+    var a = "Anitab";
+    return a
+
+function getName(b){
+    var b = "Campus"
+ var c = (a and b "is the best place to be");
+ console.log(c)
+    getName()
+}
+}
+jina();
